@@ -1,1 +1,4 @@
-client/state/**
+# client/state/**
+
+.csv
+room.txt
