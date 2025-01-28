@@ -1,0 +1,7 @@
+# client/state/**
+
+# *.csv
+# room.txt
+
+*
+!.gitignore
