@@ -3,5 +3,6 @@
 # *.csv
 # room.txt
 
+# Ignore everything in state folder except gitignore file
 *
 !.gitignore
